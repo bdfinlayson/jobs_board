@@ -4,8 +4,8 @@ This is a jobs board application written in Rails and based on Mackenzie Child's
 
 This app's features include:
 
-– Posts (Jobs)
-– Categories
-– Filtering
-– HAML
-– Bootstrap
+  – Posts (Jobs)
+  – Categories
+  – Filtering
+  – HAML
+  – Bootstrap
